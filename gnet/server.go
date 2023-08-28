@@ -2,8 +2,9 @@ package gnet
 
 import (
 	"fmt"
-	"github.com/Okkotsu/glower/serverFace"
 	"net"
+
+	"github.com/Okkotsu/glower/serverFace"
 )
 
 type Server struct {
@@ -28,7 +29,9 @@ func (s Server) Start() {
 	for {
 		fmt.Println("here to wait for accept")
 		conn, err := listener.Accept()
-		fmt.Println("accept success")
+
+		fmt.Printf("\033[1;34;40m%s\033[0m\n", "accept success")
+
 		if err != nil {
 			continue
 		}
@@ -55,6 +58,7 @@ func HandlerServer(conn net.Conn) {
 		return
 	} else {
 		_, err := conn.Write(buf[:count])
+		fmt.Printf("\033[1;36;40mserver\033[0m start return back :%s ;\n", buf)
 		if err != nil {
 			return
 		}
