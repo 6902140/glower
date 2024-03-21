@@ -3,6 +3,7 @@
 
 SERVICE := GLOWER
 CUR_PWD := C:/Users/"Zhuiri Xiao"/Desktop/glower
+# in linux platform you should use current_path := $(shell pwd)
 
 
 SERVER_DEMO_PATH := $(CUR_PWD)/examples/zinx_server

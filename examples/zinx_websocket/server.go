@@ -1,9 +1,9 @@
 package main
 
 import (
-	"github.com/aceld/zinx/examples/zinx_server/s_router"
-	"github.com/aceld/zinx/zconf"
-	"github.com/aceld/zinx/znet"
+	"github.com/6902140/glower/examples/zinx_server/s_router"
+	"github.com/6902140/glower/zconf"
+	"github.com/6902140/glower/znet"
 )
 
 func main() {

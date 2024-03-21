@@ -1,10 +1,10 @@
 package main
 
 import (
-	"github.com/aceld/zinx/examples/zinx_server/s_router"
-	"github.com/aceld/zinx/ziface"
-	"github.com/aceld/zinx/zlog"
-	"github.com/aceld/zinx/znet"
+	"github.com/6902140/glower/examples/zinx_server/s_router"
+	"github.com/6902140/glower/ziface"
+	"github.com/6902140/glower/zlog"
+	"github.com/6902140/glower/znet"
 )
 
 func DoConnectionBegin(conn ziface.IConnection) {

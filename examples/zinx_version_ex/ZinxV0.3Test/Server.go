@@ -3,8 +3,8 @@ package main
 import (
 	"fmt"
 
-	"github.com/aceld/zinx/ziface"
-	"github.com/aceld/zinx/znet"
+	"github.com/6902140/glower/ziface"
+	"github.com/6902140/glower/znet"
 )
 
 // ping test 自定义路由

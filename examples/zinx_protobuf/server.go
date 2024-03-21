@@ -2,10 +2,10 @@ package main
 
 import (
 	"fmt"
-	"github.com/aceld/zinx/ziface"
-	"github.com/aceld/zinx/zinx_app_demo/mmo_game/pb"
-	"github.com/aceld/zinx/zlog"
-	"github.com/aceld/zinx/znet"
+	"github.com/6902140/glower/ziface"
+	"github.com/6902140/glower/zinx_app_demo/mmo_game/pb"
+	"github.com/6902140/glower/zlog"
+	"github.com/6902140/glower/znet"
 	"github.com/golang/protobuf/proto"
 )
 

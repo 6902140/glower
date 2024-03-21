@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/aceld/zinx/zpack"
+	"github.com/6902140/glower/zpack"
 	"net"
 )
 

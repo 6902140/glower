@@ -1,4 +1,4 @@
-module github.com/aceld/zinx
+module github.com/6902140/glower
 
 go 1.22
 

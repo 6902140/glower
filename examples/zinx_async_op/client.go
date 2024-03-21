@@ -5,7 +5,7 @@ import (
 	"io"
 	"net"
 
-	"github.com/aceld/zinx/zpack"
+	"github.com/6902140/glower/zpack"
 )
 
 func main() {

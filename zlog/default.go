@@ -4,7 +4,7 @@ import (
 	"context"
 	"fmt"
 
-	"github.com/aceld/zinx/ziface"
+	"github.com/6902140/glower/ziface"
 )
 
 var zLogInstance ziface.ILogger = new(zinxDefaultLog)

@@ -13,7 +13,7 @@ import (
 	"math"
 	"sync"
 
-	"github.com/aceld/zinx/ziface"
+	"github.com/6902140/glower/ziface"
 )
 
 // FrameDecoder
