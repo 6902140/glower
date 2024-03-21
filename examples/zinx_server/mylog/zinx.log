@@ -1,0 +1,28 @@
+2024/03/21 17:31:35 [INFO]msghandler.go:235: Add Router msgID = 100
+2024/03/21 17:31:35 [INFO]msghandler.go:235: Add Router msgID = 1
+2024/03/21 17:31:35 [INFO]server.go:408: [START] Server name: zinx server Demo,listener at IP: 127.0.0.1, Port 8999 is starting
+2024/03/21 17:31:35 [INFO]msghandler.go:277: Worker ID = 0 is started.
+2024/03/21 17:31:35 [INFO]msghandler.go:277: Worker ID = 2 is started.
+2024/03/21 17:31:35 [INFO]msghandler.go:277: Worker ID = 1 is started.
+2024/03/21 17:31:35 [INFO]msghandler.go:277: Worker ID = 7 is started.
+2024/03/21 17:31:35 [INFO]msghandler.go:277: Worker ID = 5 is started.
+2024/03/21 17:31:35 [INFO]msghandler.go:277: Worker ID = 6 is started.
+2024/03/21 17:31:35 [INFO]msghandler.go:277: Worker ID = 3 is started.
+2024/03/21 17:31:35 [INFO]msghandler.go:277: Worker ID = 9 is started.
+2024/03/21 17:31:35 [INFO]msghandler.go:277: Worker ID = 8 is started.
+2024/03/21 17:31:35 [INFO]msghandler.go:277: Worker ID = 4 is started.
+2024/03/21 17:31:35 [INFO]server.go:359: [START] KCP server listening at IP: 127.0.0.1, Port 9001, Addr 127.0.0.1:9001
+2024/03/21 17:35:37 [INFO]msghandler.go:235: Add Router msgID = 100
+2024/03/21 17:35:37 [INFO]msghandler.go:235: Add Router msgID = 1
+2024/03/21 17:35:37 [INFO]server.go:408: [START] Server name: zinx server Demo,listener at IP: 127.0.0.1, Port 8999 is starting
+2024/03/21 17:35:37 [INFO]msghandler.go:277: Worker ID = 0 is started.
+2024/03/21 17:35:37 [INFO]msghandler.go:277: Worker ID = 5 is started.
+2024/03/21 17:35:37 [INFO]msghandler.go:277: Worker ID = 2 is started.
+2024/03/21 17:35:37 [INFO]msghandler.go:277: Worker ID = 3 is started.
+2024/03/21 17:35:37 [INFO]msghandler.go:277: Worker ID = 4 is started.
+2024/03/21 17:35:37 [INFO]msghandler.go:277: Worker ID = 7 is started.
+2024/03/21 17:35:37 [INFO]msghandler.go:277: Worker ID = 6 is started.
+2024/03/21 17:35:37 [INFO]msghandler.go:277: Worker ID = 8 is started.
+2024/03/21 17:35:37 [INFO]msghandler.go:277: Worker ID = 1 is started.
+2024/03/21 17:35:37 [INFO]msghandler.go:277: Worker ID = 9 is started.
+2024/03/21 17:35:37 [ERROR]server.go:355: [START] resolve KCP addr err: listen udp 127.0.0.1:9001: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
